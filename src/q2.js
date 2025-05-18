@@ -8,7 +8,7 @@ function stringembranco(str) {
          }
     }
 
-//return str.trim() === '';
+
 console.log(stringembranco("")); // true
 console.log(stringembranco("kakkakaka")); // false
 
