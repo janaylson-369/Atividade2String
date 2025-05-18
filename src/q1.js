@@ -1,9 +1,9 @@
 //Escreva uma função em Javascript para verificar se uma variável é do tipo
 // String ou não.
 
-function String(valor) {
+function aeString(valor) {
 
-    if (typeof valor === 'string') {    
+    if (typeof valor === 'string bbbb') {    
         return true;
     } else {
         return false;
@@ -11,5 +11,5 @@ function String(valor) {
 }
 
 // Exemplos de uso:
-console.log(String( "ola")); // true
-console.log(String(123));  // false
+console.log(aeString( "olass")); // true
+console.log(aeString(123));  // false
